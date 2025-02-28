@@ -1,0 +1,15 @@
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\bin\Debug\net9.0-windows\QuicTacToe.exe
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\bin\Debug\net9.0-windows\QuicTacToe.deps.json
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\bin\Debug\net9.0-windows\QuicTacToe.runtimeconfig.json
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\bin\Debug\net9.0-windows\QuicTacToe.dll
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\bin\Debug\net9.0-windows\QuicTacToe.pdb
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.AssemblyInfo.cs
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.sourcelink.json
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.dll
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\refint\QuicTacToe.dll
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.pdb
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\QuicTacToe.genruntimeconfig.cache
+C:\Users\gusta\Documents\Projects\QuickTacToe\QuicTacToe\obj\Debug\net9.0-windows\ref\QuicTacToe.dll
