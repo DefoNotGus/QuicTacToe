@@ -1,8 +1,8 @@
-# QicTacToe - Yes there was a typo!
+# QuicTacToe - Yes there was a typo!
 
-QuicTacToe is my first C# program where I am designing a simple modified tiktaktoe version to play with my friends during school breaks!
+This is my first C# program also my first time using a .NET as a framework (Winform library) where I am designing a simple modified Tic-Tac-Toe version to play with my friends during Uni breaks!
 
-QicTacToe is a modified Tic-Tac-Toe game where each player can only have their last **three** moves on the board at any given time. If a player places a fourth mark, their oldest mark is removed. The game also includes a **3-second turn timer**, and if a player exceeds the time limit, the opponent wins.
+QuicTacToe is a game where each player can only have their last **three** moves on the board at any given time. If a player places a fourth mark, their oldest mark is removed. The game also includes a **3-second turn timer**, and if a player exceeds the time limit, the opponent wins.
 
 ---
 >I will detail everything as I am new to C# and this will be my cheatsheet for a while.
