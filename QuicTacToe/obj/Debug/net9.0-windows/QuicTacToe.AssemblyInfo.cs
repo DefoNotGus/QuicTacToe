@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuicTacToe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833799c2ffa6391f5c5c783b76e589de173a9366")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7573749164fbd9f2d67c9a0dac8b83aaada2b56d")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuicTacToe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuicTacToe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
