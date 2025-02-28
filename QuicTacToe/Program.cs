@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Timers;
 
-namespace QicTacToe
+namespace QuicTacToe
 {
     public class GameForm : Form
     {
@@ -23,7 +23,7 @@ namespace QicTacToe
 
         public GameForm()
         {
-            this.Text = "QicTacToe";
+            this.Text = "QuicTacToe";
             this.ClientSize = new Size(320, 450);
             this.StartPosition = FormStartPosition.CenterScreen;
 
